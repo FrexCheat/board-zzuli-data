@@ -1,27 +1,49 @@
-# xcpcio-zzuli-data-archived
+# board-zzuli-data
 
-Archived xcpcio board data of zzuli.
+Archived gplt/xcpc board data of zzuli.
 
 ```
-├─ccpc
-│  └─11st
-│      ├─zhengzhou-invitational
-│      └─zhengzhou-invitational-warmup
-├─index
-└─school-contest
-    └─zzuli
-        ├─freshman-based
-        │  └─2024
-        │      ├─formal
-        │      │  └─assets
-        │      └─warmup
-        └─school-based
-            ├─16th
-            │  ├─formal
-            │  │  └─assets
-            │  └─warmup
-            └─17th
-                ├─formal
-                │  └─assets
-                └─warmup
+.
+├── gplt
+│   └── 202512
+│       ├── contest.json
+│       ├── ranking.json
+│       ├── students.json
+│       └── teams.json
+└── xcpc
+    ├── index
+    │   └── contest_list.json
+    └── school-contest
+        └── zzuli
+            ├── freshman-based
+            │   └── 2024
+            │       ├── formal
+            │       │   ├── assets
+            │       │   │   └── banner_2024.png
+            │       │   ├── config.json
+            │       │   ├── run.json
+            │       │   └── team.json
+            │       └── warmup
+            │           ├── config.json
+            │           ├── run.json
+            │           └── team.json
+            └── school-based
+                ├── 16th
+                │   └── formal
+                │       ├── assets
+                │       │   └── banner_2023.png
+                │       ├── config.json
+                │       ├── run.json
+                │       └── team.json
+                └── 17th
+                    ├── formal
+                    │   ├── assets
+                    │   │   └── banner_2025.png
+                    │   ├── config.json
+                    │   ├── run.json
+                    │   └── team.json
+                    └── warmup
+                        ├── config.json
+                        ├── run.json
+                        └── team.json
 ```
