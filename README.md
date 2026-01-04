@@ -5,7 +5,7 @@ Archived gplt/xcpc board data of zzuli.
 ```
 .
 ├── gplt
-│   └── 202512
+│   └── 2025th
 │       ├── contest.json
 │       ├── ranking.json
 │       ├── students.json
