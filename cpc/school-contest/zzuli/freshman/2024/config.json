@@ -25,7 +25,6 @@
         "unofficial": "线上队伍",
         "zzuli": "轻大队伍"
     },
-    "organization": "School",
     "status_time_display": {
         "correct": true,
         "incorrect": true,
@@ -86,6 +85,6 @@
         }
     ],
     "logo": {
-        "preset": "zzuli"
+        "preset": "ZZULI"
     }
 }
