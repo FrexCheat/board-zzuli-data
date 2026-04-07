@@ -2,18 +2,6 @@
     "school-contest": {
         "zzuli": {
             "freshman": {
-                "2024-warmup": {
-                    "config": {
-                        "contest_name": "郑州轻工业大学 “筑梯杯” 2024 级新生程序设计大赛暨省内高校邀请赛 - 资格赛",
-                        "start_time": 1741240800,
-                        "end_time": 1741251600,
-                        "frozen_time": 1800,
-                        "logo": {
-                            "preset": "ZZULI"
-                        }
-                    },
-                    "board_link": "/school-contest/zzuli/freshman/2024-warmup"
-                },
                 "2024": {
                     "config": {
                         "contest_name": "郑州轻工业大学 “筑梯杯” 2024 级新生程序设计大赛暨省内高校邀请赛 - 正式赛",
@@ -39,18 +27,6 @@
                 },
                 "board_link": "/school-contest/zzuli/16th"
             },
-            "17th-warmup": {
-                "config": {
-                    "contest_name": "郑州轻工业大学 “筑梯杯” 第 17 届程序设计竞赛暨省内高校邀请赛 - 资格赛",
-                    "start_time": 1743656400,
-                    "end_time": 1743674400,
-                    "frozen_time": 3600,
-                    "logo": {
-                        "preset": "ZZULI"
-                    }
-                },
-                "board_link": "/school-contest/zzuli/17th-warmup"
-            },
             "17th": {
                 "config": {
                     "contest_name": "郑州轻工业大学 “筑梯杯” 第 17 届程序设计竞赛暨省内高校邀请赛 - 正式赛",
@@ -62,6 +38,18 @@
                     }
                 },
                 "board_link": "/school-contest/zzuli/17th"
+            },
+            "18th": {
+                "config": {
+                    "contest_name": "郑州轻工业大学 “筑梯杯” 第 18 届程序设计竞赛暨省内高校邀请赛 - 正式赛",
+                    "start_time": 1775440800000,
+                    "end_time": 1775458800000,
+                    "frozen_time": 3600,
+                    "logo": {
+                        "preset": "ZZULI"
+                    }
+                },
+                "board_link": "/school-contest/zzuli/18th"
             }
         }
     }

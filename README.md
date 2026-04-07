@@ -1,6 +1,6 @@
 # board-zzuli-data
 
-Archived gplt/xcpc board data of zzuli.
+Archived GPLT/CPC board data of ZZULI.
 
 ```
 .
@@ -21,18 +21,17 @@ Archived gplt/xcpc board data of zzuli.
 │           │   ├── config.json
 │           │   ├── run.json
 │           │   └── team.json
-│           ├── 17th-warmup
+│           ├── 18th
+│           │   ├── assets
+│           │   │   └── banner.png
 │           │   ├── config.json
+│           │   ├── organizations.json
 │           │   ├── run.json
 │           │   └── team.json
 │           └── freshman
-│               ├── 2024
-│               │   ├── assets
-│               │   │   └── banner_2024.png
-│               │   ├── config.json
-│               │   ├── run.json
-│               │   └── team.json
-│               └── 2024-warmup
+│               └── 2024
+│                   ├── assets
+│                   │   └── banner_2024.png
 │                   ├── config.json
 │                   ├── run.json
 │                   └── team.json

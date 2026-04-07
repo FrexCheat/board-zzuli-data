@@ -1,0 +1,100 @@
+{
+  "contest_name": "郑州轻工业大学 “筑梯杯” 第 18 届程序设计竞赛暨省内高校邀请赛 - 正式赛",
+  "start_time": 1775440800000,
+  "end_time": 1775458800000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#e25b2e"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f8b7bd"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#14247c"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#203c30"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#4aa0dd"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0f9493"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0d9646"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fc63a3"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#6b48a6"
+    }
+  ],
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  },
+  "logo": {
+    "preset": "ZZULI"
+  },
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "group": {
+    "official": "校内队伍",
+    "unofficial": "校外队伍"
+  },
+  "medal": {
+    "official": {
+      "gold": 5,
+      "silver": 8,
+      "bronze": 12
+    },
+    "unofficial": {
+      "gold": 10
+    }
+  }
+}

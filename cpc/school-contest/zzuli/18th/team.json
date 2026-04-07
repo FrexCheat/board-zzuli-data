@@ -1,0 +1,1933 @@
+[
+  {
+    "id": "jsj215002",
+    "name": "博思队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "杨正一",
+      "王晨懿",
+      "杨子钰"
+    ],
+    "location": "计算机楼215-2"
+  },
+  {
+    "id": "jsj215004",
+    "name": "零基础新生 998244353 队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "任哲正",
+      "陈抱朴",
+      "袁佳呈"
+    ],
+    "location": "计算机楼215-4"
+  },
+  {
+    "id": "jsj215006",
+    "name": "枫叶队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "陈燕颔",
+      "马铂杨",
+      "李西朗"
+    ],
+    "location": "计算机楼215-6"
+  },
+  {
+    "id": "jsj215008",
+    "name": "Bingo校赛",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "员欣宇",
+      "程羲",
+      "张刘乐祺"
+    ],
+    "location": "计算机楼215-8"
+  },
+  {
+    "id": "jsj215010",
+    "name": "对对对",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "闫昊阳",
+      "杨涵博",
+      "张慧伟"
+    ],
+    "location": "计算机楼215-10"
+  },
+  {
+    "id": "jsj215012",
+    "name": "IAKACM",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "窦文远",
+      "孟祥哲",
+      "文赫"
+    ],
+    "location": "计算机楼215-12"
+  },
+  {
+    "id": "jsj215014",
+    "name": "蒟蒻队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "武一芃",
+      "索浩然",
+      "赵奇奇"
+    ],
+    "location": "计算机楼215-14"
+  },
+  {
+    "id": "jsj215016",
+    "name": "BUG走开队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王伟宸",
+      "顾乾上",
+      "赵子睿"
+    ],
+    "location": "计算机楼215-16"
+  },
+  {
+    "id": "jsj215018",
+    "name": "破晓",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "刘禹羲",
+      "王立行",
+      "贾晶瑄"
+    ],
+    "location": "计算机楼215-18"
+  },
+  {
+    "id": "jsj215020",
+    "name": "对不对",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "赵为卓",
+      "齐若涵",
+      "郭奕麟"
+    ],
+    "location": "计算机楼215-20"
+  },
+  {
+    "id": "jsj215022",
+    "name": "巧破阵突击队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "何宇羲",
+      "阴昊成",
+      "段子瑜"
+    ],
+    "location": "计算机楼215-22"
+  },
+  {
+    "id": "jsj215024",
+    "name": "暴力出奇迹",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "刘佳豪",
+      "李金恩",
+      "许恩浩"
+    ],
+    "location": "计算机楼215-24"
+  },
+  {
+    "id": "jsj215026",
+    "name": "NO爆零队",
+    "organization_id": "996d6610",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李天与",
+      "刘一布",
+      "韩煜"
+    ],
+    "location": "计算机楼215-26"
+  },
+  {
+    "id": "jsj111002",
+    "name": "O(1) Team",
+    "organization_id": "00a4e94c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李想",
+      "吴逸轩",
+      "盛伟淇"
+    ],
+    "location": "计算机楼111-2"
+  },
+  {
+    "id": "jsj111004",
+    "name": "我要起床了",
+    "organization_id": "00a4e94c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "胡靖铭",
+      "田沈聪",
+      "付凌霄"
+    ],
+    "location": "计算机楼111-4"
+  },
+  {
+    "id": "jsj111006",
+    "name": "母鸡队",
+    "organization_id": "00a4e94c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "汪文吉",
+      "孟天赐",
+      "周子贺"
+    ],
+    "location": "计算机楼111-6"
+  },
+  {
+    "id": "jsj111008",
+    "name": "薇尔莉特",
+    "organization_id": "00a4e94c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "靳子炫",
+      "龚柏文",
+      "魏一鸣"
+    ],
+    "location": "计算机楼111-8"
+  },
+  {
+    "id": "jsj111010",
+    "name": "wawawa",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "周宇航",
+      "王笑",
+      "张天硕"
+    ],
+    "location": "计算机楼111-10"
+  },
+  {
+    "id": "jsj111012",
+    "name": "哪个是赵雷",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张运甫",
+      "李文洋",
+      "王东浩"
+    ],
+    "location": "计算机楼111-12"
+  },
+  {
+    "id": "jsj111014",
+    "name": "随便叫个吧",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "卢杏",
+      "马晓钰",
+      "黄俊晓"
+    ],
+    "location": "计算机楼111-14"
+  },
+  {
+    "id": "jsj111016",
+    "name": "灌注永雏塔菲喵",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "孙佳佳",
+      "冯佳乐",
+      "雷鸣源"
+    ],
+    "location": "计算机楼111-16"
+  },
+  {
+    "id": "jsj111018",
+    "name": "拼好饭护航",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "姚宗凯",
+      "吴宇涵",
+      "柳雨心"
+    ],
+    "location": "计算机楼111-18"
+  },
+  {
+    "id": "jsj111020",
+    "name": "南苑一队",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "翟超玉",
+      "裴思淼",
+      "钱文哲"
+    ],
+    "location": "计算机楼111-20"
+  },
+  {
+    "id": "jsj111022",
+    "name": "南苑二队",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "赵奕铭",
+      "王义豪",
+      "马驰"
+    ],
+    "location": "计算机楼111-22"
+  },
+  {
+    "id": "jsj121002",
+    "name": "南苑三队",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "贾坤",
+      "王大鹏",
+      "周子航"
+    ],
+    "location": "计算机楼121-2"
+  },
+  {
+    "id": "jsj121004",
+    "name": "南苑四队",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李卫",
+      "秦子明",
+      "崔润霖"
+    ],
+    "location": "计算机楼121-4"
+  },
+  {
+    "id": "jsj121006",
+    "name": "南苑五队",
+    "organization_id": "e6ecf6db",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李涵",
+      "陈瑾",
+      "武文盼"
+    ],
+    "location": "计算机楼121-6"
+  },
+  {
+    "id": "jsj121008",
+    "name": "队长在树上写代码",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "白镇豪",
+      "王子昂",
+      "李庭鑫"
+    ],
+    "location": "计算机楼121-8"
+  },
+  {
+    "id": "jsj121010",
+    "name": "队长在树下看树上",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "曲永栈",
+      "王宇恒",
+      "贾淇轩"
+    ],
+    "location": "计算机楼121-10"
+  },
+  {
+    "id": "jsj121012",
+    "name": "队长躺地上看树上",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王佳豪",
+      "胡雅琪",
+      "方潇涵"
+    ],
+    "location": "计算机楼121-12"
+  },
+  {
+    "id": "jsj121014",
+    "name": "夜向日葵",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张宏泽",
+      "马贺",
+      "马家硕"
+    ],
+    "location": "计算机楼121-14"
+  },
+  {
+    "id": "jsj121016",
+    "name": "我说前有C++高手有感觉吗",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "庞贺航",
+      "高旭",
+      "刘庭铄"
+    ],
+    "location": "计算机楼121-16"
+  },
+  {
+    "id": "jsj121018",
+    "name": "花团锦簇分队",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "路耀华",
+      "王伟立",
+      "牛见青"
+    ],
+    "location": "计算机楼121-18"
+  },
+  {
+    "id": "jsj121020",
+    "name": "骑着猪去兜风",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张康发",
+      "张梦淇",
+      "袁林坤"
+    ],
+    "location": "计算机楼121-20"
+  },
+  {
+    "id": "jsj121022",
+    "name": "郑与阳双",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张腾轩",
+      "宋宏鱼",
+      "赵新萌"
+    ],
+    "location": "计算机楼121-22"
+  },
+  {
+    "id": "jsj112002",
+    "name": "自在无压",
+    "organization_id": "39e232a8",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王安然",
+      "孙可欣",
+      "李光磊"
+    ],
+    "location": "计算机楼112-2"
+  },
+  {
+    "id": "jsj215040",
+    "name": "从容应队",
+    "organization_id": "e64407fe",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "任昱恒",
+      "邓筱雯",
+      "梁雪楠"
+    ],
+    "location": "计算机楼215-40"
+  },
+  {
+    "id": "jsj112004",
+    "name": "薄荷鱼汤可乐饼",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "沈子焱",
+      "杨光",
+      "余俊颉"
+    ],
+    "location": "计算机楼112-4"
+  },
+  {
+    "id": "jsj112006",
+    "name": "chiikawa",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "朱逸菲",
+      "邓海迪",
+      "李悦"
+    ],
+    "location": "计算机楼112-6"
+  },
+  {
+    "id": "jsj112008",
+    "name": "我要玩英雄联盟",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "谢梓洋",
+      "王小鸣",
+      "宋明潭"
+    ],
+    "location": "计算机楼112-8"
+  },
+  {
+    "id": "jsj112010",
+    "name": "期望周末",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李金晗",
+      "陈劲霄",
+      "牛欣平"
+    ],
+    "location": "计算机楼112-10"
+  },
+  {
+    "id": "jsj112012",
+    "name": "哦对的对的对的队",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "隆鲁滨",
+      "王泽楷",
+      "孙恩哲"
+    ],
+    "location": "计算机楼112-12"
+  },
+  {
+    "id": "jsj112014",
+    "name": "蹦吧队",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王思源",
+      "靳鹏",
+      "郑占祥"
+    ],
+    "location": "计算机楼112-14"
+  },
+  {
+    "id": "jsj112016",
+    "name": "答的都队",
+    "organization_id": "0b3e260d",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "邢祎恬",
+      "张乐园",
+      "时佳"
+    ],
+    "location": "计算机楼112-16"
+  },
+  {
+    "id": "jsj112018",
+    "name": "河中医1队",
+    "organization_id": "394562e3",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "崔智诚",
+      "刘巍",
+      "张情涵"
+    ],
+    "location": "计算机楼112-18"
+  },
+  {
+    "id": "rj402002",
+    "name": "河中医2队",
+    "organization_id": "394562e3",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "孙钰彬",
+      "王煦涵",
+      "全荣洁"
+    ],
+    "location": "软件楼402-2"
+  },
+  {
+    "id": "rj402004",
+    "name": "河中医3队",
+    "organization_id": "394562e3",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王威然",
+      "王同喜",
+      "周己登"
+    ],
+    "location": "软件楼402-4"
+  },
+  {
+    "id": "rj402006",
+    "name": "河中医4队",
+    "organization_id": "394562e3",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "赵涵",
+      "郑佳乐",
+      "王紫岩"
+    ],
+    "location": "软件楼402-6"
+  },
+  {
+    "id": "rj402008",
+    "name": "河中医5队",
+    "organization_id": "394562e3",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "吕振羽",
+      "董莞艺",
+      "张文菲"
+    ],
+    "location": "软件楼402-8"
+  },
+  {
+    "id": "rj402010",
+    "name": "让我再A一题吧",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "石耀耀",
+      "李威",
+      "崔鑫"
+    ],
+    "location": "软件楼402-10"
+  },
+  {
+    "id": "rj402012",
+    "name": "这题怎么还不队",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "蔡仁健",
+      "韩林强",
+      "孙智星"
+    ],
+    "location": "软件楼402-12"
+  },
+  {
+    "id": "rj402014",
+    "name": "打铁的命，AC的心",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王加燊",
+      "何嘉斌",
+      "张哲"
+    ],
+    "location": "软件楼402-14"
+  },
+  {
+    "id": "rj402016",
+    "name": "并查集能将心连通吗？",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "朱志博",
+      "梁志洋",
+      "左永欣"
+    ],
+    "location": "软件楼402-16"
+  },
+  {
+    "id": "rj402018",
+    "name": "一次AC队",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "黄鑫",
+      "栗佳宁",
+      "孙煜帆"
+    ],
+    "location": "软件楼402-18"
+  },
+  {
+    "id": "rj402020",
+    "name": "连水触电练轻工",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "高威",
+      "刘佳明",
+      "刘阳阳"
+    ],
+    "location": "软件楼402-20"
+  },
+  {
+    "id": "rj402022",
+    "name": "为她苦练acm",
+    "organization_id": "76b1d3ef",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "任睿",
+      "于宗瑞",
+      "陈佳乐"
+    ],
+    "location": "软件楼402-22"
+  },
+  {
+    "id": "rj402024",
+    "name": "cf炎帝",
+    "organization_id": "7d745a27",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "周政",
+      "薛天齐",
+      "吴鑫"
+    ],
+    "location": "软件楼402-24"
+  },
+  {
+    "id": "rj402026",
+    "name": "队长说不ac就不睡觉",
+    "organization_id": "7d745a27",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "侯铮",
+      "武宇翔",
+      "吴育轩"
+    ],
+    "location": "软件楼402-26"
+  },
+  {
+    "id": "rj402028",
+    "name": "码上AC队",
+    "organization_id": "7d745a27",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "莫少杰",
+      "齐家康",
+      "张鹏宇"
+    ],
+    "location": "软件楼402-28"
+  },
+  {
+    "id": "rj402030",
+    "name": "何の意味",
+    "organization_id": "7d745a27",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "毛睿",
+      "陈年澎",
+      "姬冠成"
+    ],
+    "location": "软件楼402-30"
+  },
+  {
+    "id": "rj402032",
+    "name": "openclaw，帮我ac这道题",
+    "organization_id": "7d745a27",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "唐博",
+      "王朔淇",
+      "万皓月"
+    ],
+    "location": "软件楼402-32"
+  },
+  {
+    "id": "jsj112015",
+    "name": "猛兽派队",
+    "organization_id": "242a969c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "武梦洋",
+      "张语涵",
+      "李继红"
+    ],
+    "location": "计算机楼112-15"
+  },
+  {
+    "id": "jsj112017",
+    "name": "昨晚睡的床板",
+    "organization_id": "242a969c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "杨家豪",
+      "陈冠明",
+      "付锦泷"
+    ],
+    "location": "计算机楼112-17"
+  },
+  {
+    "id": "rj402001",
+    "name": "202",
+    "organization_id": "242a969c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "万思铭",
+      "刘志成",
+      "屈梓琛"
+    ],
+    "location": "软件楼402-1"
+  },
+  {
+    "id": "rj402034",
+    "name": "四小时下班",
+    "organization_id": "242a969c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张朝阳",
+      "周智贤",
+      "张志恒"
+    ],
+    "location": "软件楼402-34"
+  },
+  {
+    "id": "rj402036",
+    "name": "代码不超时",
+    "organization_id": "242a969c",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王辉",
+      "鲍宗辉",
+      "侯泓羽"
+    ],
+    "location": "软件楼402-36"
+  },
+  {
+    "id": "rj402003",
+    "name": "君与ACM之恋",
+    "organization_id": "b4c6eecc",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "董昭佑",
+      "穆金磊",
+      "巩俊哲"
+    ],
+    "location": "软件楼402-3"
+  },
+  {
+    "id": "rj402005",
+    "name": "听取WA声一片",
+    "organization_id": "b4c6eecc",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "单玉威",
+      "慕京轩",
+      "王玮"
+    ],
+    "location": "软件楼402-5"
+  },
+  {
+    "id": "rj402007",
+    "name": "来都来了",
+    "organization_id": "b4c6eecc",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "樊智鑫",
+      "杨兴州",
+      "梁亚鹏"
+    ],
+    "location": "软件楼402-7"
+  },
+  {
+    "id": "rj402009",
+    "name": "样例过了就交",
+    "organization_id": "b4c6eecc",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "袁浩坤",
+      "方正",
+      "田盛源"
+    ],
+    "location": "软件楼402-9"
+  },
+  {
+    "id": "rj402011",
+    "name": "花有重开日",
+    "organization_id": "b4c6eecc",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张云飞",
+      "李天佑",
+      "顾陆军"
+    ],
+    "location": "软件楼402-11"
+  },
+  {
+    "id": "rj402013",
+    "name": "sl和zhx和gsh的南梁白丝洛丽塔",
+    "organization_id": "2efe6971",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "郭书含",
+      "申林",
+      "赵鸿煊"
+    ],
+    "location": "软件楼402-13"
+  },
+  {
+    "id": "rj402015",
+    "name": "卡皮巴拉",
+    "organization_id": "2efe6971",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "代威",
+      "王言锦",
+      "杜勇明"
+    ],
+    "location": "软件楼402-15"
+  },
+  {
+    "id": "rj402017",
+    "name": "一路昭阳",
+    "organization_id": "2efe6971",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "韩泽宇",
+      "程瑞龙",
+      "薛家俊"
+    ],
+    "location": "软件楼402-17"
+  },
+  {
+    "id": "rj402019",
+    "name": "歪比巴布",
+    "organization_id": "2efe6971",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "曹睿甫",
+      "王留健",
+      "牛奥松"
+    ],
+    "location": "软件楼402-19"
+  },
+  {
+    "id": "rj402021",
+    "name": "装忧郁蹲在地上被狗误认为在出餐",
+    "organization_id": "2efe6971",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李雨恒",
+      "范晨康",
+      "王驿丹"
+    ],
+    "location": "软件楼402-21"
+  },
+  {
+    "id": "jsj215001",
+    "name": "咪啪啊呜Ciallo喵~",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "罗立凯",
+      "李嘉硕",
+      "雷祖涛"
+    ],
+    "location": "计算机楼215-1"
+  },
+  {
+    "id": "jsj215003",
+    "name": "我的队友不可能这么可爱",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "乔泽宇",
+      "李浩翔",
+      "郭俊辰"
+    ],
+    "location": "计算机楼215-3"
+  },
+  {
+    "id": "jsj215005",
+    "name": "奇鸣队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "张奇隆",
+      "陈春雷",
+      "高雪志"
+    ],
+    "location": "计算机楼215-5"
+  },
+  {
+    "id": "jsj215007",
+    "name": "听取wa声一片",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "唐跃珂",
+      "田定坤",
+      "陈东旭"
+    ],
+    "location": "计算机楼215-7"
+  },
+  {
+    "id": "jsj215009",
+    "name": "锟斤拷烫烫烫",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "万启星",
+      "王俊男",
+      "李俊芃"
+    ],
+    "location": "计算机楼215-9"
+  },
+  {
+    "id": "jsj215011",
+    "name": "燎原之盒",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "王天宇",
+      "杜永恒",
+      "牛培宇"
+    ],
+    "location": "计算机楼215-11"
+  },
+  {
+    "id": "jsj215013",
+    "name": "样例过了就是对了",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "吴钰欣",
+      "李彤",
+      "马梦茹"
+    ],
+    "location": "计算机楼215-13"
+  },
+  {
+    "id": "jsj215015",
+    "name": "最后一舞",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "夏高祥",
+      "栗闫恒",
+      "陈显皓"
+    ],
+    "location": "计算机楼215-15"
+  },
+  {
+    "id": "jsj215017",
+    "name": "写的代码都队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "王政为",
+      "曹若兮",
+      "张歆婷"
+    ],
+    "location": "计算机楼215-17"
+  },
+  {
+    "id": "jsj215019",
+    "name": "暴力出奇迹",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "胡梓璇",
+      "李阳",
+      "刘梓睿"
+    ],
+    "location": "计算机楼215-19"
+  },
+  {
+    "id": "jsj215021",
+    "name": "你和他分手吧我们才是一队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "吕依鸿",
+      "陈璐汶",
+      "王郅智"
+    ],
+    "location": "计算机楼215-21"
+  },
+  {
+    "id": "jsj215023",
+    "name": "微软大战代码",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "马艺轩",
+      "尹航",
+      "吕浩源"
+    ],
+    "location": "计算机楼215-23"
+  },
+  {
+    "id": "jsj215025",
+    "name": "三只小猪猪的奇妙校赛旅程",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "王孜政",
+      "杨镐铭",
+      "潘柄源"
+    ],
+    "location": "计算机楼215-25"
+  },
+  {
+    "id": "jsj215027",
+    "name": "豆包说的豆队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "武贺健",
+      "华志勇",
+      "朱玉嫣"
+    ],
+    "location": "计算机楼215-27"
+  },
+  {
+    "id": "jsj215029",
+    "name": "对对队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "马慧梵",
+      "黄浩成",
+      "宋因珂"
+    ],
+    "location": "计算机楼215-29"
+  },
+  {
+    "id": "jsj215031",
+    "name": "AC是意外",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "孙晨翔",
+      "侯代翔",
+      "熊柯林"
+    ],
+    "location": "计算机楼215-31"
+  },
+  {
+    "id": "jsj215033",
+    "name": "第一章·龙傲天复仇归来·携手玛丽苏公主·这一次我要拿回属于我的一切队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "陈怡",
+      "武姮",
+      "周麟林"
+    ],
+    "location": "计算机楼215-33"
+  },
+  {
+    "id": "jsj215035",
+    "name": "俩人带一🐖",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "殷子乐",
+      "杨智博",
+      "宋天和"
+    ],
+    "location": "计算机楼215-35"
+  },
+  {
+    "id": "jsj215037",
+    "name": "石中剑",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "任展麟",
+      "胡胜杰",
+      "董孟欣"
+    ],
+    "location": "计算机楼215-37"
+  },
+  {
+    "id": "jsj215039",
+    "name": "AAAbug批发商",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "焦浩洋",
+      "杨畅畅",
+      "廖义轩"
+    ],
+    "location": "计算机楼215-39"
+  },
+  {
+    "id": "jsj111001",
+    "name": "别怕宝贝我们能蒙队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "石俊杰",
+      "李沛儒",
+      "张奥辉"
+    ],
+    "location": "计算机楼111-1"
+  },
+  {
+    "id": "jsj111003",
+    "name": "你管我对不队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "宋保宣",
+      "周玉航",
+      "李心妍"
+    ],
+    "location": "计算机楼111-3"
+  },
+  {
+    "id": "jsj111005",
+    "name": "一码当先队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "刘岩",
+      "蔡子健",
+      "杨依寒"
+    ],
+    "location": "计算机楼111-5"
+  },
+  {
+    "id": "jsj111007",
+    "name": "到此一游队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "原康",
+      "周绍聪",
+      "杨浩冉"
+    ],
+    "location": "计算机楼111-7"
+  },
+  {
+    "id": "jsj111009",
+    "name": "骷髅打金服",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "杨杰",
+      "刘宗伟",
+      "赵苏恒"
+    ],
+    "location": "计算机楼111-9"
+  },
+  {
+    "id": "jsj111011",
+    "name": "浅水滩",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "王怡洁",
+      "李卓忆",
+      "刘依帆"
+    ],
+    "location": "计算机楼111-11"
+  },
+  {
+    "id": "jsj111013",
+    "name": "WA的一下哭出来",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "刘华韬",
+      "黄金",
+      "刘华韬"
+    ],
+    "location": "计算机楼111-13"
+  },
+  {
+    "id": "jsj111015",
+    "name": "吃饭要排队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "杨晨",
+      "王科硕",
+      "李然"
+    ],
+    "location": "计算机楼111-15"
+  },
+  {
+    "id": "jsj111017",
+    "name": "君不见，高堂明镜悲全WA",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "苏全成",
+      "冯联清",
+      "邱海霞"
+    ],
+    "location": "计算机楼111-17"
+  },
+  {
+    "id": "jsj111019",
+    "name": "黑马程序员带队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "李帅杰",
+      "马鑫铭",
+      "苗雨泽"
+    ],
+    "location": "计算机楼111-19"
+  },
+  {
+    "id": "jsj111021",
+    "name": "豆包你还爱我对不队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "朱思举",
+      "王淼淼",
+      "贺旭"
+    ],
+    "location": "计算机楼111-21"
+  },
+  {
+    "id": "jsj121003",
+    "name": "无言以队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "王子嘉",
+      "张君恒",
+      "牛晨星"
+    ],
+    "location": "计算机楼121-3"
+  },
+  {
+    "id": "jsj121005",
+    "name": "友谊_MAX比赛_MIN",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "潘垚东",
+      "李春硕",
+      "赵乾浩"
+    ],
+    "location": "计算机楼121-5"
+  },
+  {
+    "id": "jsj121007",
+    "name": "内场观众席",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "张耀鑫",
+      "王子绪",
+      "曹都"
+    ],
+    "location": "计算机楼121-7"
+  },
+  {
+    "id": "jsj121009",
+    "name": "book思议队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "张嘉益",
+      "张玉宁",
+      "闫馨怡"
+    ],
+    "location": "计算机楼121-9"
+  },
+  {
+    "id": "jsj121011",
+    "name": "挺过资格赛队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "李金璨",
+      "栗荣兴",
+      "郝鹏宇"
+    ],
+    "location": "计算机楼121-11"
+  },
+  {
+    "id": "jsj121013",
+    "name": "样例全队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "张世杰",
+      "殷兴宇",
+      "徐鸿飞"
+    ],
+    "location": "计算机楼121-13"
+  },
+  {
+    "id": "jsj121015",
+    "name": "队友同意我随便取",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "甘承璞",
+      "窦万锦",
+      "范双学"
+    ],
+    "location": "计算机楼121-15"
+  },
+  {
+    "id": "jsj121017",
+    "name": "小白",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "周彦旭",
+      "陈旭阳",
+      "沈政宏"
+    ],
+    "location": "计算机楼121-17"
+  },
+  {
+    "id": "jsj121019",
+    "name": "字节漫游队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "杨耿杰",
+      "王舟颖",
+      "李美凤"
+    ],
+    "location": "计算机楼121-19"
+  },
+  {
+    "id": "jsj121021",
+    "name": "关注北尘尘尘c谢谢喵队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "党昊帅",
+      "李梓尘",
+      "柳程译"
+    ],
+    "location": "计算机楼121-21"
+  },
+  {
+    "id": "jsj112001",
+    "name": "我的刀盾",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "冯忆浩",
+      "闫程宇",
+      "冯玉梦"
+    ],
+    "location": "计算机楼112-1"
+  },
+  {
+    "id": "jsj112003",
+    "name": "吃完饭就走队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "卢锦畅",
+      "郭守敬",
+      "孙佳明"
+    ],
+    "location": "计算机楼112-3"
+  },
+  {
+    "id": "jsj112005",
+    "name": "机车威尔逊",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "马博文",
+      "闵彦博",
+      "涂李诺"
+    ],
+    "location": "计算机楼112-5"
+  },
+  {
+    "id": "jsj112007",
+    "name": "旺旺队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "刘民声",
+      "王雨露",
+      "杨慧晴"
+    ],
+    "location": "计算机楼112-7"
+  },
+  {
+    "id": "jsj112009",
+    "name": "随缘队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "李永霜",
+      "赵凯宁",
+      "孙小婷"
+    ],
+    "location": "计算机楼112-9"
+  },
+  {
+    "id": "jsj112011",
+    "name": "AC蛊再让我AC一道题吧",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "卢可",
+      "赵依雯",
+      "李乐"
+    ],
+    "location": "计算机楼112-11"
+  },
+  {
+    "id": "jsj112013",
+    "name": " 算力先锋队",
+    "organization_id": "8deae074",
+    "group": [
+      "official"
+    ],
+    "members": [
+      "谷晨硕",
+      "崔若澜",
+      "王一帆"
+    ],
+    "location": "计算机楼112-13"
+  },
+  {
+    "id": "rj402023",
+    "name": "动感光波,WAWAWA",
+    "organization_id": "879dea58",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李炎峻",
+      "贠鑫喆",
+      "朱世博"
+    ],
+    "location": "软件楼402-23"
+  },
+  {
+    "id": "rj402025",
+    "name": "权御天下",
+    "organization_id": "879dea58",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "杨景轩",
+      "杜一鸣",
+      "王艺辉"
+    ],
+    "location": "软件楼402-25"
+  },
+  {
+    "id": "rj402027",
+    "name": "submit之后就ac了",
+    "organization_id": "879dea58",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "邢彬帆",
+      "赵思晴",
+      "周证恒"
+    ],
+    "location": "软件楼402-27"
+  },
+  {
+    "id": "jsj215028",
+    "name": "鸣潮不如花花",
+    "organization_id": "672da284",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李瑞恒",
+      "马海航",
+      "侯雄飞"
+    ],
+    "location": "计算机楼215-28"
+  },
+  {
+    "id": "jsj215030",
+    "name": "糖糖的是不是会被拒",
+    "organization_id": "672da284",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "张淏然",
+      "李依霄",
+      "郑博文"
+    ],
+    "location": "计算机楼215-30"
+  },
+  {
+    "id": "jsj215032",
+    "name": "超级无敌旋风小登",
+    "organization_id": "672da284",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "蔡政言",
+      "张奕泽",
+      "马士兵"
+    ],
+    "location": "计算机楼215-32"
+  },
+  {
+    "id": "jsj215034",
+    "name": "zzsz一队",
+    "organization_id": "41c674e4",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "焦梓辰",
+      "马铭泽",
+      "王浩宇"
+    ],
+    "location": "计算机楼215-34"
+  },
+  {
+    "id": "jsj215036",
+    "name": "zzsz二队",
+    "organization_id": "41c674e4",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王虎",
+      "谷佳昊"
+    ],
+    "location": "计算机楼215-36"
+  },
+  {
+    "id": "jsj215038",
+    "name": "代码探险者",
+    "organization_id": "bc86bd7b",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "王俊翔",
+      "陈星锐",
+      "张俊哲"
+    ],
+    "location": "计算机楼215-38"
+  },
+  {
+    "id": "rj402029",
+    "name": "WRD",
+    "organization_id": "da307d13",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李梦阳",
+      "杨仕尧",
+      "丁凯"
+    ],
+    "location": "软件楼402-29"
+  },
+  {
+    "id": "rj402031",
+    "name": "菜菜打铁队",
+    "organization_id": "da307d13",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "马玉凡",
+      "马资聪",
+      "李洋"
+    ],
+    "location": "软件楼402-31"
+  },
+  {
+    "id": "rj402033",
+    "name": "贵校饭好吃队",
+    "organization_id": "da307d13",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "符运涵",
+      "王子涵",
+      "任杰"
+    ],
+    "location": "软件楼402-33"
+  },
+  {
+    "id": "rj402035",
+    "name": "何意卫",
+    "organization_id": "da307d13",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "田琦伟",
+      "丁森",
+      "朱永臻"
+    ],
+    "location": "软件楼402-35"
+  },
+  {
+    "id": "rj402037",
+    "name": "榜多丽 ACMyGo",
+    "organization_id": "da307d13",
+    "group": [
+      "unofficial"
+    ],
+    "members": [
+      "李家明",
+      "祁俊豪",
+      "王泽宇"
+    ],
+    "location": "软件楼402-37"
+  }
+]
